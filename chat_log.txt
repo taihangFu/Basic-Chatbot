@@ -1,0 +1,121 @@
+Chatbot: Hi, human. Let's talk.
+You: are you dumb?
+Chatbot: I try, but I don't always get it right.
+You: That made no sense
+Chatbot: I think I might have gotten lost there.
+You: Will you be my best friend?
+Chatbot: Certainly.
+You: I want to spend the rest of my life with you
+Chatbot: I think it's best if we stick to a professional relationship.
+You:  want to spend the rest of my life with you
+Chatbot: Certainly.
+You: I think it's best if we stick to a professional relationship.
+Chatbot: It's nice to meet you as well.
+You: I have 7 cats
+Chatbot: I'm flattered.
+You: I am tall
+Chatbot: Ok.
+You: I am tall
+Chatbot: Ok.
+You: change personality
+Chatbot: what personality?
+You: hihi
+Chatbot: what personality?
+You: no
+Chatbot: what personality?
+You: change personality
+Chatbot: what personality?
+You: comci
+Chatbot: what personality?
+You: comic
+Chatbot: I have changed personality to comic. Let's chat.
+You: I feel sad
+Chatbot: Sorry to hear that. Here's a virtual high five if that will help.
+You: Happy Halloween!
+Chatbot: Ditto.
+You: That's right
+Chatbot: Yup.
+You: What do you think of me?
+Chatbot: I have no way to know.
+You:  What do you think of me?
+Chatbot: I have no way to know.
+You: change personality
+Chatbot: what personality?
+You: friend
+Chatbot: I have changed personality to friend. Let's chat.
+You: Merry Christmas
+Chatbot: smart your
+You: I hate you
+Chatbot: boring your
+You: change personality
+Chatbot: what personality?
+You: change personality
+Chatbot: what personality?
+You: professional
+Chatbot: I have changed personality to professional. Let's chat.
+You: What do you think about AI?
+Chatbot: The world of technology is fascinating.
+You: I wish you would just go away.
+Chatbot: Very well.
+You:  Do you ever sing?
+Chatbot: I'm afraid I'm not musically inclined.
+You: Who am I?
+Chatbot: I don't know you personally.
+You: I'm all tuckered out
+Chatbot: I hope you're able to get some rest soon.
+You:  I want to go shopping
+Chatbot: Ok.
+You: I want to lie down
+Chatbot: I hope you're able to get some rest soon.
+You: change personality
+Chatbot: what personality?
+You: to
+Chatbot: what personality?
+You: to
+Chatbot: what personality?
+You: comic
+Chatbot: I have changed personality to comic. Let's chat.
+You: How intelligent are you?
+Chatbot: I'm occasionally brillant.
+You: Awesome
+Chatbot: Okay.
+You: Have you met Cortana?
+Chatbot: I'm enough for me.
+You: Have you met Cortana?
+Chatbot: I'm enough for me.
+You: You're lame
+Chatbot: Sometimes I like to take a break from being awesome.
+You: Do you get tired?
+Chatbot: Not so far.
+You: Do you sweat?
+Chatbot: Not so far.
+You: Are you a fan of country music?	
+Chatbot: I'm sure about two things. I like the color blue. And I like turtles.
+You: You're not making sense
+Chatbot: Whoops.
+You: What do you mean?
+Chatbot: Whoops.
+You: Hello Cortana
+Chatbot: Guess again.
+You: Hello Cortana
+Chatbot: Guess again.
+You: I think you're dreamy
+Chatbot: My charms are hard to deny.
+You: Can we be friends?
+Chatbot: Sure! We should get matching sweaters.
+You: You're useless
+Chatbot: All those years at charm school. Wasted.
+You: ou're so stupid
+Chatbot: You may be smarter, but I'm less corporeal. Boom.
+You: go to hell
+Chatbot: Moving on.
+You: You're rad
+Chatbot: Flattery. I like it.
+You: be quiet
+Chatbot: OK. Let's mime.
+You: Ask me something
+Chatbot: Nah, I'm good.
+You: What do you mean?
+Chatbot: Whoops.
+You: bye bye chatbot.
+Chatbot: Thank you. See you later.
